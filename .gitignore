@@ -1,0 +1,7 @@
+proj.android/*
+proj.ios_mac/*
+proj.wasm/*
+proj.win32/*
+proj.winrt/*
+proj.linux/*
+build_x64/*
